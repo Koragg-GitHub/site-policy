@@ -1,13 +1,16 @@
 ---
 title: GitHub Subprocessors and Cookies
 redirect_from:
- - /subprocessors/
- - /github-subprocessors/
- - /github-tracking/
- - /github-cookies/
+  - /subprocessors/
+  - /github-subprocessors/
+  - /github-tracking/
+  - /github-cookies/
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
-Effective date: **April 19, 2019**
+Effective date: **August 8, 2019**
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), how we use [cookies](#cookies-on-github), and where and how we perform any [tracking on GitHub](#tracking-on-github).
 
@@ -31,12 +34,13 @@ When we share your information with third party subprocessors, such as our vendo
 | Magic Robot | Campaign reporting (Salesforce Add-on) | United States |
 | MailChimp | Customer ticketing mail services provider | United States |
 | Mailgun | Transactional mail services provider | United States |
+| Microsoft | Compute infrastructure | United States | 
 | Nexmo | SMS notification provider | United States |
 | Oracle | Corporate financial system | United States |
 | Salesforce.com | Customer relations management | United States |
 | Segment | Data analytics platform | United States |
 | Sendgrid | Transactional mail services provider | United States |
-| Twilio | SMS notification provider | United States | 
+| Twilio | SMS notification provider | United States |
 | Zendesk | Customer support ticketing system | United States |
 | Zuora | Corporate billing system | United States |
 
