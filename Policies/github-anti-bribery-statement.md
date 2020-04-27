@@ -2,7 +2,8 @@
 title: GitHub Anti-Bribery Statement
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-anti-bribery-statement
 ---
 GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
 - **political**, by posing a major obstacle to democracy and the rule of law
@@ -14,7 +15,7 @@ According to the [World Bank](http://www.worldbank.org/en/topic/governance/brief
 
 ### GitHub policies prohibiting bribery
 
-GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here. 
+GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here.
 
 GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
 
@@ -50,4 +51,4 @@ While the U.S. FCPA is focused on interactions with government officials, the U.
 
 ### Engaging our Partners
 - GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
-- Going forward, GitHub’s **vendor contracts** now require a commitment to comply with this Anti-Corruption Statement.
+- Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.

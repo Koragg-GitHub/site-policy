@@ -2,7 +2,8 @@
 title: GitHub Registered Developer Agreement
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-registered-developer-agreement
 ---
 GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better.  GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
 
@@ -54,7 +55,7 @@ This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (�
 
 7. **Fees and Payment**
 
-  There may be fees associated with participating in the Program.  We’ll tell you what those fees are in the Program Terms, as we update them from time to time (the “Program Fees”).  If you gave us your payment information before, you agree that we can charge the same credit card or PayPal account as part of this Agreement. Otherwise, you’ll need to give us a valid payment account, and other supporting information. Except as otherwise expressly provided in Section 8, any payments you make to us for the Program are non-refundable.You give us permission to automatically charge your payment account on the anniversary of your first payment date to cover all of the coming year’s Program Fees, unless you terminate this Agreement first according to Section 8. All fees are due in U.S. Dollars, and are exclusive of all taxes, levies, or duties imposed by taxing authorities (you’re responsible for all of those, except for  taxes based on our income).
+  There may be fees associated with participating in the Program. We’ll tell you what those fees are in the Program Terms, as we update them from time to time (the “Program Fees”). If you gave us your payment information before, you agree that we can charge the same credit card or PayPal account as part of this Agreement. Otherwise, you’ll need to give us a valid payment account, and other supporting information. Except as otherwise expressly provided in Section 8, any payments you make to us for the Program are non-refundable. You give us permission to automatically charge your payment account on the anniversary of your first payment date to cover all of the coming year’s Program Fees, unless you terminate this Agreement first according to Section 8. All fees are due in U.S. Dollars, and are exclusive of all taxes, levies, or duties imposed by taxing authorities (you’re responsible for all of those, except for taxes based on our income).
 
 8. **Term and Termination**
 

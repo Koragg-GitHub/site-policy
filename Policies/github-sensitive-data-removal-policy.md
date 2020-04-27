@@ -2,7 +2,8 @@
 title: GitHub Sensitive Data Removal Policy
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-sensitive-data-removal-policy
 ---
 If you believe that content on GitHub infringes a valid copyright you own, please see our [DMCA Takedown Policy](/articles/dmca-takedown-policy/) and our [Guide to Submitting a DMCA Takedown Notice](/articles/guide-to-submitting-a-dmca-takedown-notice/). We rely on the DMCA notice and takedown process for the majority of our removal actions.
 
@@ -47,11 +48,11 @@ For the purposes of this document, “sensitive data” refers to content that (
 
   OR
 
-5. **User May Dispute the Request.** If a user believes the the content in question is not sensitive data subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
+5. **User May Dispute the Request.** If a user believes the content in question is not sensitive data subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
 6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
 
-7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the sensitive data specified in the notice, we may allow them an additional 24-hour window, upon request, to make those changes. In that event, GitHub will notify the complainant.
+7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the sensitive data specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
 
 #### What About Forks? (or What's a Fork?)
 One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[fork](/articles/github-glossary/#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
@@ -74,7 +75,7 @@ These guidelines are designed to make the processing of requests to remove sensi
 
 ### How to Submit Your Request
 
-You can email your request to remove sensitive data to <a href="mailto:support@github.com" data-proofer-ignore>support&#64;github.com</a> or submit your request via our [Contact form](https://github.com/contact/). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
+You can submit your request to remove sensitive data via our [contact form](https://support.github.com/contact). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
 
 ### Disputes
 

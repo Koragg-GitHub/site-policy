@@ -1,9 +1,10 @@
 ---
 title: GitHub Community Guidelines
-redirect_from: /community-guidelines/
+redirect_from:
+  - /community-guidelines/
+  - /articles/github-community-guidelines
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
@@ -17,13 +18,17 @@ We rely on our community members to communicate expectations, [moderate](#what-i
 The primary purpose of the GitHub community is to collaborate on software projects.
 We want people to work better together. Although we maintain the site, this is a community we build *together*, and we need your help to make it the best it can be.
 
-* **Be welcoming and open-minded** - Other collaborators may not have the same experience level or background as you, but that doesn't mean they don't have good ideas to contribute. We encourage you to be welcoming to new collaborators on your projects and discussions.
+* **Be welcoming and open-minded** - Other collaborators may not have the same experience level or background as you, but that doesn't mean they don't have good ideas to contribute. We encourage you to be welcoming to new collaborators and those just getting started.
 
-* **Assume no malice** - Humans make mistakes, and disagreements or differences of opinion are a fact of life. Try to approach conflict from the perspective that people generally mean well. This will promote a respectful and friendly atmosphere where people feel comfortable asking questions, participating in discussions, and making contributions.
+* **Respect each other.**  Nothing sabotages healthy conversation like rudeness. Be civil and professional, and don’t post anything that a reasonable person would consider offensive, abusive, or hate speech. Don’t harass or grief anyone. Treat each other with dignity and consideration in all interactions.
 
-* **Stay on topic** - People use GitHub to get work done and to be more productive. Off topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
+  You may wish to respond to something by disagreeing with it. That’s fine. But remember to criticize ideas, not people. Avoid name-calling, ad hominem attacks, responding to a post’s tone instead of its actual content, and knee-jerk contradiction. Instead, provide reasoned counter-arguments that improve the conversation.
 
-* **Be clear** - Communicating with strangers on the Internet can be awkward. It's hard to convey or read tone, and sarcasm is frequently misunderstood. Try to use clear language, and think about how it will be received by the other person.
+* **Communicate with empathy** - Disagreements or differences of opinion are a fact of life. Being part of a community means interacting with people from a variety of backgrounds and perspectives, many of which may not be your own. If you disagree with someone, try to understand and share their feelings before you address them. This will promote a respectful and friendly atmosphere where people feel comfortable asking questions, participating in discussions, and making contributions.
+
+* **Be clear and stay on topic** - People use GitHub to get work done and to be more productive. Off-topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
+
+   Additionally, communicating with strangers on the Internet can be awkward. It's hard to convey or read tone, and sarcasm is frequently misunderstood. Try to use clear language, and think about how it will be received by the other person.
 
 ### What if something or someone offends you?
 
@@ -56,6 +61,8 @@ We are committed to maintaining a community where users are free to express them
 * **Sexually obscene content** - Don’t post content that is pornographic. This does not mean that all nudity, or all code and content related to sexuality, is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. We do not allow obscene sexual content or content that may involve the exploitation or sexualization of minors.
 
 * **Gratuitously violent content** - Don’t post violent images, text, or other content without reasonable context or warnings. While it's often okay to include violent content in video games, news reports, and descriptions of historical events, we do not allow violent content that is posted indiscriminately, or that is posted in a way that makes it difficult for other users to avoid (such as a profile avatar or an issue comment). A clear warning or disclaimer in other contexts helps users make an educated decision as to whether or not they want to engage with such content.
+
+* **Misinformation and disinformation** - You may not post content that presents a distorted view of reality, whether it is inaccurate or false (misinformation) or is intentionally deceptive (disinformation) because such content is likely to result in harm to the public or to interfere with fair and equal opportunities for all to participate in public life. For example, we do not allow content that may put the well-being of groups of people at risk or limit their ability to take part in a free and open society. We encourage active participation in the expression of ideas, perspectives, and experiences and may not be in a position to dispute personal accounts or observations. We generally allow parody and satire that is in line with our Acceptable Use Polices, and we consider context to be important in how information is received and understood; therefore, it may be appropriate to clarify your intentions via disclaimers or other means, as well as the source(s) of your information.
 
 * **Active malware or exploits** - Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers. Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.
 
